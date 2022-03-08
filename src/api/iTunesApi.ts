@@ -1,0 +1,1 @@
+export const api = 'https://itunes.apple.com/';
